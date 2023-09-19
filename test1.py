@@ -9,4 +9,4 @@ import numpy as np
 
 myArray = np.array([1,2,5,6])
 
-print(f"第3位数据是：{myArray[2]}")
+print(f"第4位数据是：{myArray[3]}")
